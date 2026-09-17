@@ -12,3 +12,7 @@ Para rodar o projeto na sua máquina, siga os passos abaixo:
 1. Certifique-se de ter o Node.js instalado no seu computador.
 2. Baixe o código principal script.js e os arquivos de dados originais clientes.csv e estacionamento.csv. Salve todos esses arquivos exatamente na mesma pasta.
 4. Abra o terminal nessa pasta e inicie o programa com o comando:node script.js  
+
+## Arquitetura do Sistema
+
+![Diagrama de Classes UML](diagrama_de_classes.png)
