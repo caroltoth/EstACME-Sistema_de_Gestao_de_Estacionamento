@@ -1,5 +1,5 @@
 # EstACME-Sistema_de_Gestao_de_Estacionamento
-Projeto desenvolvido no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na PUCRS. Trata-se de um sistema construído em Node.js para o gerenciamento de pátios de estacionamento. O foco desta fase é a aplicação prática do paradigma de Programação Orientada a Objetos (POO), utilizando conceitos de herança e polimorfismo.
+Projeto desenvolvido no 2º semestre do curso de ADS na PUCRS. Trata-se de um sistema construído em Node.js para o gerenciamento de pátios de estacionamento. O foco desta fase é a aplicação prática do paradigma de Programação Orientada a Objetos (POO), utilizando conceitos de herança e polimorfismo.
 
 Funcionalidades:
 Gestão de Clientes: O sistema lida com diferentes categorias de usuários, como Estudante, Professor, Empresa e Cliente Avulso. Cada categoria possui regras de negócio e tarifas de cobrança específicas.  
