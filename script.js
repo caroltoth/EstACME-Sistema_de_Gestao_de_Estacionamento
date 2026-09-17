@@ -1,7 +1,6 @@
 const fs = require('fs');
 const readline = require('readline');
 
-// --- 1. Modelos de Dados (POO) ---
 
 class Cliente {
     constructor(id, nome) {
@@ -42,7 +41,6 @@ class ClienteAvulso {
     }
 }
 
-// --- 2. Gestão de Dados e Persistência ---
 
 class CadastroClientes {
     constructor() {
@@ -150,7 +148,6 @@ class RegistroDeEntradas_E_Saidas {
     }
 }
 
-// --- 3. Interface e Relatórios ---
 
 class App {
     constructor() {
